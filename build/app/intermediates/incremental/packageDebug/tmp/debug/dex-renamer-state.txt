@@ -1,0 +1,4 @@
+#Mon Dec 14 10:30:56 IST 2020
+base.0=/Volumes/scanDisk_200GB/FlutterProjects/flutter_app/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
